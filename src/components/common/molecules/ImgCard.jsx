@@ -1,8 +1,8 @@
 import React from "react";
 
-const AppCard = ({ cardClass }) => {
+const AppCard = ({ classname }) => {
   return (
-    <div className={cardClass}>
+    <div className={classname}>
       
     </div>
   )

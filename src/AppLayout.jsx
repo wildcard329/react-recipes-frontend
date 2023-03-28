@@ -1,9 +1,14 @@
 import React from "react";
+import { AppHeader, AppFooter } from "./components/app"
 
 const AppLayout = ({ children }) => {
   return (
-    <div>
-      {children}
+    <div className="app-layout">
+      <AppHeader />
+      <div id="content-wrapper">
+        {children}
+      </div>
+      <AppFooter />
     </div>
   )
 }

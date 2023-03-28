@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "path": "/",
+    "label": "Home"
+  },
+  {
+    "id": 1,
+    "path": "/recipes",
+    "label": "Recipes"
+  },
+  {
+    "id": 2,
+    "path": "/planner",
+    "label": "Meal Planner"
+  }
+]

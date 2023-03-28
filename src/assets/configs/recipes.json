@@ -1,0 +1,95 @@
+[
+  {
+    "recipeId": 0,
+    "recipeName": "spaghetti",
+    "recipeDescription": "Quick, nutritious meal.",
+    "totalTime": 60,
+    "prepTime": 15,
+    "cookTime": 25,
+    "categories": [
+      {
+        "categoryId": 2,
+        "catgoryName": "dinner"
+      }
+    ],
+    "ingredients": [
+      {
+        "ingredientId": 0,
+        "ingredientName": "spaghetti sticks",
+        "ingredientQuantity": 1,
+        "ingredientUnit": {
+          "unitId": 0,
+          "unitName": "package"
+        }
+      },
+      {
+        "ingredientId": 1,
+        "ingredientName": "tomato sauce",
+        "ingredientQuantity": 1,
+        "ingredientUnit": {
+          "unitId": 1,
+          "unitName": "can"
+        }
+      },
+      {
+        "ingredientId": 2,
+        "ingredientName": "black pepper",
+        "ingredientQuantity": 2,
+        "ingredientUnit": {
+          "unitId": 2,
+          "unitName": "tbs"
+        }
+      },
+      {
+        "ingredientId": 3,
+        "ingredientName": "garlic powder",
+        "ingredientQuantity": 3,
+        "ingredientUnit": {
+          "unitId": 2,
+          "unitName": "tbs"
+        }
+      },
+      {
+        "ingredientId": 4,
+        "ingredientName": "oregono",
+        "ingredientQuantity": 1,
+        "ingredientUnit": {
+          "unitId": 2,
+          "unitName": "tbs"
+        }
+      },
+      {
+        "ingredientId": 5,
+        "ingredientName": "basil",
+        "ingredientQuantity": 2,
+        "ingredientUnit": {
+          "unitId": 2,
+          "unitName": "tbs"
+        }
+      },
+      {
+        "ingredientId": 6,
+        "ingredientName": "ground beef",
+        "ingredientQuantity": 1,
+        "ingredientUnit": {
+          "unitId": 3,
+          "unitName": "lb"
+        }
+      }
+    ],
+    "instructions": [
+      {
+        "stepNumber": 1,
+        "stepInstruction": "Place a pot of water on stove on high heat, bring water to a boil and add spaghetti sticks. Stir periodically so the spaghetti does not clump."
+      },
+      {
+        "stepNumber": 2,
+        "stepInstruction": "On another burner, cook ground beef until the meat turns from pink to brown. Drain the grease, then add tomato sauce and seasonnings. Stir periodically until the spaghetti is soft."
+      },
+      {
+        "stepNumber": 3,
+        "stepInstruction": "Drain the water from the spaghetti Combine the sauce and the spaghetti in the pot and stir."
+      }
+    ]
+  }
+]
